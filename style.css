@@ -12,7 +12,6 @@ body {
 .container {
     height: 70vh;
     width: 20vw;
-    border: 1px solid black;
     background-color: hsl(0, 0%, 12%);
     color: white;
     border-radius: 10px;
@@ -110,4 +109,55 @@ button p{
 
 .attribution {
     margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+
+  body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+  }
+
+  .container {
+    height: 50vh;    
+    width: 70vw;
+    height: auto;
+    border: none;
+    padding: 20px 40px 20px 20px;
+  }
+
+  .imageContainer {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+  }
+
+  .nameContainer {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .nameContainer h6 {
+    font-size: 13px;
+  }
+
+  .socialLinksContainer {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  button {
+    height: 35px;
+    width: 100%;
+    padding: 9px 17px;
+  }
+
+  button p {
+    width: 100%;
+    text-align: center;
+    font-size: 12%;
+  }
 }
