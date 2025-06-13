@@ -28,15 +28,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+1. Active State - [](./screenshot/active-state.png)
+2. Desktop Design [](./screenshot/desktop-design.png)
+3. Mobile Design - [](./screenshot/mobile-design-solution.png)
+A
 
 ### Links
 
@@ -44,6 +39,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
+Started out with the HTML body part and worked my way down to the attribution section. Had the CSS section done side by side with the HTML thereby making it easier to track changes and progress through my work.
 
 ### Built with
 
@@ -59,7 +56,7 @@ Actually got more clearance on Flexbox and had to read/lookup Grid system too, l
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful Think i'll keep working on it to make it better and achieve a more responsive site across all device.
+Think i'll keep working on it to make it better and achieve a more responsive site across all device.
 
 ### Useful resources
 
